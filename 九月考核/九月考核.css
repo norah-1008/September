@@ -1,0 +1,47 @@
+div{
+    width: 100px;
+    margin: 10px auto;
+    text-align: center;
+}
+.box1{
+    width: auto;
+    height: 200px;
+    background-color: rgba(48,48,48);
+}
+img{
+    margin: 50px auto;
+}
+.box22{
+    font-size: 10px;
+    font-weight: 700;
+    color: rgba(108, 185, 213);   
+}
+
+button{
+    width: 120px;
+    height: 40px; 
+    border-radius: 10px;
+    margin-top: 5px;
+    border-width: 0;
+    color: white;
+    box-shadow: 0px 0px 25px -12px black;
+    /* background-color: rgba(96, 169, 193); */
+}
+.btn1{
+    width: 120px;
+    height: 40px; 
+    border-radius: 10px;
+    margin-top: 5px;
+    border-width: 0;
+    color: white;
+   background-color: rgba(108, 185, 213);     
+    box-shadow: 0px 0px 25px -12px black;
+    /* background-color: rgba(96, 169, 193); */
+}
+.box23 button{   
+    background: rgba(96, 169, 193);
+  
+}
+.box24 button{
+    background: rgb(90, 193, 137);
+}
